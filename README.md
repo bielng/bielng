@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **React.js, AWS, and Data Science with Python**
+- 🌱 I’m currently learning **GenAI, AWS, and Data Science with Python**
 
-- 👯 I’m looking to collaborate on **Data-driven Web Apps**
+- 👯 I’m looking to collaborate on **Data-driven projects**
 
 - 🤝 I’m looking for help with **AI-Powered Dashboards**
 
-- 💬 Ask me about **React, Python, Power BI, and Machine Learning**
+- 💬 Ask me about **AWS Analytics, Python, Power BI, and Machine Learning**
 
 - 📫 How to reach me **ngunartaban@gmail.com**
 
