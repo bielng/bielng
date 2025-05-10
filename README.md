@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Taban Ngunar</h1>
-<h3 align="center">A passionate AI & ML Developer</h3>
+
+<h2 align="center">
+  🚀 A Data Science and Engineering student  with a passion for data analytics, machine learning, and cloud technologies.  
+  I thrive on building real-world solutions using Python, AWS, Power BI, and open-source tools.  
+  As a refugee tech advocate, I empower others through digital training, freelancing, and community-driven innovation.
+</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bielng&label=Profile%20views&color=0e75b6&style=flat" alt="bielng" /> </p>
 
