@@ -21,6 +21,7 @@
 - 💬 Ask me about **AWS Analytics, Python, Power BI, and Machine Learning**
 
 - 📫 How to reach me **ngunartaban@gmail.com**
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/taban-ngunar-x217/)
 
 - ⚡ Fun fact **I think I am funny and love coding while watching sci-fi shows.**
 
