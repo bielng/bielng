@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#4FC3F7;">Taban Ngunar</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#4FC3F7;">TaJ</span></h1>
 
 <h2 align="center">🚀 Aspiring Data Scientist & Cloud Engineer | 📊 Data Enthusiast | 🌍 Refugee Tech Advocate</h2>
 
