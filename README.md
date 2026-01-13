@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ What I'm Up To
+###  What I'm Up To
 
 -  Currently working on: <strong>Data Analytics Projects</strong>  
 -  Learning: <strong>Generative AI, AWS, & Data Science with Python</strong>  
