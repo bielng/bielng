@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#4FC3F7;">TaJ</span></h1>
+<h1 align="center">Hey there, I'm <span style="color:#4FC3F7;">TaJ</span></h1>
 
-<h2 align="center">🚀 Aspiring Data Scientist & Cloud Engineer | 📊 Data Enthusiast | 🌍 Refugee Tech Advocate</h2>
+<h2 align="center"> Aspiring Data Scientist & Cloud Engineer |  Data Enthusiast |  Refugee Tech Advocate</h2>
 
 <p align="center">
-  🎓 AI & Data Engineering Student at <strong>ITESO Universidad Jesuita de Guadalajara</strong><br>
-  🧠 Passionate about making data work for humanity through <strong>Python, AWS, Power BI</strong> & open-source tools<br>
-  🤝 I empower marginalized communities through <strong>digital skills, freelancing, and innovation</strong>
+   AI & Data Engineering Student at <strong>ITESO Universidad Jesuita de Guadalajara</strong><br>
+   Passionate about making data work for humanity through <strong>Python, AWS, Power BI</strong> & open-source tools<br>
+   I empower marginalized communities through <strong>digital skills, freelancing, and innovation</strong>
 </p>
 
 <br>
@@ -24,29 +24,29 @@
 
 ### 🛠️ What I'm Up To
 
-- 🔭 Currently working on: <strong>Data Analytics Projects</strong> 📈  
-- 🌱 Learning: <strong>Generative AI, AWS, & Data Science with Python</strong> 🤖☁️🐍  
-- 👯 Open to Collaborations: <strong>Data-driven Solutions & AI Projects</strong> 🤝💡  
-- 🤔 Seeking help with: <strong>AI-Powered Dashboards & Real-Time Analytics</strong> 📊⚡  
-- 💬 Ask me about: <strong>AWS Analytics, Python, Power BI, and ML</strong> 🧠📌  
+-  Currently working on: <strong>Data Analytics Projects</strong>  
+-  Learning: <strong>Generative AI, AWS, & Data Science with Python</strong>  
+-  Open to Collaborations: <strong>Data-driven Solutions & AI Projects</strong>  
+-  Seeking help with: <strong>AI-Powered Dashboards & Real-Time Analytics</strong>   
+-  Ask me about: <strong>AWS Analytics, Python, Power BI, and ML</strong>  
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
 
-- 📧 Email: <a href="mailto:ngunartaban@gmail.com">ngunartaban@gmail.com</a>  
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/taban-ngunar-x217/" target="_blank">taban-ngunar-x217</a>  
-- 🌍 Advocate at: <strong>Skills Without Borders</strong>  
-- 🧪 GitHub: <a href="https://github.com/bielng" target="_blank">github.com/bielng</a>
-
----
-
-### ⚡ Fun Fact  
-I believe tech can change the world 🌎 — and I love coding while watching sci-fi shows 🚀👨‍💻🎬
+- Email: <a href="mailto:ngunartaban@gmail.com">ngunartaban@gmail.com</a>  
+- LinkedIn: <a href="https://www.linkedin.com/in/taban-ngunar-x217/" target="_blank">taban-ngunar-x217</a>  
+- Advocate at: <strong>Skills Without Borders</strong>  
+- GitHub: <a href="https://github.com/bielng" target="_blank">github.com/bielng</a>
 
 ---
 
-<h3 align="left">🌐 Find Me Elsewhere</h3>
+###  Fun Fact  
+I believe tech can change the world  — and I love coding while watching sci-fi shows 
+
+---
+
+<h3 align="left"> Find Me Elsewhere</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/taban-ngunar-x217/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
   <a href="mailto:ngunartaban@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail" height="30" width="30" /></a>
