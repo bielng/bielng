@@ -83,7 +83,7 @@ I believe tech can change the world  — and I love coding while watching sci-fi
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/images/logo2_compressed.svg" width="50">
+    <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" width="50">
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/>
