@@ -1,9 +1,9 @@
 <h1 align="center">Hey there, I'm <span style="color:#4FC3F7;">TaJ</span></h1>
 
-<h2 align="center"> Aspiring Data Scientist |  Data Enthusiast |  Refugee Tech Advocate</h2>
+<h2 align="center"> Data Scientist |  Data Enthusiast |  Refugee Tech Advocate</h2>
 
 <p align="center">
-   AI & Data Engineering Student at <strong>ITESO Universidad Jesuita de Guadalajara</strong><br>
+   AI & Data Engineering at <strong>ITESO Universidad Jesuita de Guadalajara</strong><br>
    Passionate about making data work for humanity through <strong>Python, AWS, Power BI</strong> & open-source tools<br>
    I empower marginalized communities through <strong>digital skills, freelancing, and innovation</strong>
 </p>
