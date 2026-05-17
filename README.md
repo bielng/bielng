@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm <span style="color:#4FC3F7;">TaJ</span></h1>
+<h1 align="center">Hey there, I'm <span style="color:#4FC3F7;">TABAN</span></h1>
 
 <h2 align="center"> Data Scientist |  Data Enthusiast |  Refugee Tech Advocate</h2>
 
@@ -42,12 +42,12 @@
 - Advocate at: <strong>Skills Without Borders</strong>  
 - GitHub: <a href="https://github.com/bielng" target="_blank">github.com/bielng</a>
 
----
+
 
 ###  Fun Fact  
 I believe tech can change the world  — and I love coding while watching sci-fi shows 
 
----
+
 
 <h3 align="left"> Find Me Elsewhere</h3>
 <p align="left">
