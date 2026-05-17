@@ -23,7 +23,7 @@
   </a>
 </p>
 
----
+
 
 ###  What I'm Up To
 
@@ -33,7 +33,7 @@
 -  Seeking help with: <strong>AI-Powered Dashboards & Real-Time Analytics</strong>   
 -  Ask me about: <strong>AWS Analytics, Python, Power BI, and ML</strong>  
 
----
+
 
 ### Let’s Connect
 
