@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm <span style="color:#4FC3F7;">TABAN</span></h1>
+<h1 align="center">Hey there, I'm <span style="color:#4FC3F7;">Taban</span></h1>
 
 <h2 align="center"> Data Scientist |  Data Enthusiast |  Refugee Tech Advocate</h2>
 
