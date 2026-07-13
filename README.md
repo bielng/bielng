@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm <span style="color:#4FC3F7;">Taban</span></h1>
 
-<h2 align="center"> Data Scientist |  Data Enthusiast |  Refugee Tech Advocate</h2>
+<h2 align="center"> Inspiring Data Scientist |  Data Enthusiast</h2>
 
 <p align="center">
    AI & Data Engineering at <strong>ITESO Universidad Jesuita de Guadalajara</strong><br>
